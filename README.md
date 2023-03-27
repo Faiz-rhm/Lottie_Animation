@@ -1,6 +1,17 @@
-# lottie_adob_effect
+# Lottie Animation 
 
-A new Flutter project.
+This project will showcase a list of interactive animations for apps, games, and website using [Lotti](https://pub.dev/packages/lottie), is a mobile library for Android and iOS that parses Adobe After Effects animations
+
+## Development Setup
+
+Clone the repository and run the following commands:
+
+```sh
+flutter pub get
+flutter run
+```
+
+## Screen Shots
 
 ## Getting Started
 
